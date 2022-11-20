@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+  }
+  p {
+    color: green;
+  }
+  h2 {
+    background-color: black;
+    color: white;
+  }
+  .box {
+    background-color: #56955b;
+  }
+  body {
+    background-color: rgba(59, 231, 16, 0.288);
+   }
